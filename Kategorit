@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurantet</title>
+    <link rel="icon" href="./Images/Restaurants/download.png" type="image/icon type">
+<link rel="stylesheet" href="dishes.css">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+  
+
+<section class="barb" id="biryani">
+    <h1 class="Fastfood">Restaurantet</h1>
+    <hr class="line"> 
+    <div class="box-container">
+    <div class="box">
+        <a href="./.html"><img src=""></a>
+        <h3>Fastfoodat</h3>
+     
+            <p>Mega Burger,Burger King,KFC</p>
+
+        </div>
+        </div>
+        <div class="box">
+        <a href="."><img src=""></a>
+        <h3>Grillat</h3>
+        
+            <br>
+            <p>Te Hyska,Te Syla,Lin D'or</p>
+
+        </div>
+        </div>
+        <div class="box">
+        <a href="."><img src="."></a>
+        <h3>Tradicional</h3>
+       
+            <p>Tiffany Resturant,Hani i Vjeter, Konaku</p>
+
+        </div>
+        </div>
+        <div class="box">
+        <a href="./.html"><img src="jpg"></a>
+        <h3>Peshq&Perime</h3>
+     
+            <br>
+            <p>FishHouse,Mariana Fish House,Mediterrian Fish House </p>
+
+        </div>
+        </div>
+        <div class="box">
+        <a href="./.html"><img src="jpg"></a>
+        <h3>Embeltore&Furra</h3>
+      
+            <p>Miisini Sweets,Te Oreksi,Saray Sweets,Burek Sarajeva</p>
+
+        </div>
+        </div>
+        <div class="box">
+        <a href=".html"><img src=".jpeg"></a>
+        <h3>Pizzza&Pasta</h3>
+    
+            <p>Finnish Pizza,Pasta Fasta,Aurora a La Carte</p>
+
+        </div>
+        </div>
+        
+       
+       
+        
+
+        </div>
+        </section>
+
+
+
+
+</section>
+
+
+    
+
